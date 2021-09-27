@@ -1,4 +1,7 @@
 # CSGO Glow Demo in C#
+
+### I've made a C++ version of this project. You can view it [here](https://github.com/KyeOnDiscord/csgo-glow-demo-cpp)
+
 An external CSGO Glow Hack made in C#
 
 This program requires the `-insecure` flag on when launching csgo. Learn more here: https://guidedhacking.com/threads/how-to-bypass-vac-valve-anti-cheat-info.8125/
